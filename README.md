@@ -2,6 +2,7 @@
 # Hirst Painting Generator: A Dance of Colors! 🎨
 
 Dive into the vivid world of art with the Hirst Painting Generator. Breathe life into your images, transforming them into mesmerizing Hirst-inspired dot paintings. Let every pixel tell its story, every color sing its song!
+
 ![image.jpeg](image.jpeg)
 ## Repository URL
 
